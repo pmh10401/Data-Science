@@ -5,6 +5,6 @@ Data-Science Study
 
 # 학습 순서
 1. Bike Sharing Demand(완료)
-  1.  
+    1.  
 2. NLP
 3. Data Preprocessing(요약정리 필요)
